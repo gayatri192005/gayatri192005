@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Gayatri!
+![image](https://github.com/user-attachments/assets/be5c677b-0c66-4090-8c3a-b1eb63b5245c)### 👋 Hi, I’m Gayatri!
 
 
 - 👀 I’m interested in Web dev, AI, Web3, IoT, and all things tech!
@@ -60,3 +60,15 @@ Thanks for stopping by! 😊
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+Hi, I’m Gayatri! 👀 I’m interested in Programming , Full stackdev, Gen AI, IoT, and all things tech! 🌱 I’m currently learning competitive programming, advanced Full stack and generative AI 💞️ I’m looking to collaborate on open-source projects, hackathons, and innovative startup ideas.!Connect with me on LinkedIn (https://www.linkedin.com/in/g-gayatri192005/) or reach out via email at gayatri192005@gmail.com
+A passionate developer
+
+🚀 Languages and Tools I Use
+java python javascript react html5 css3 angularjs nodejs spring express nestjs hadoop android reactnative flutter tensorflow mongodb mysql mssql sqlite firebase photoshop figma git arduino
+
+⚡️ Where to find me
+twitter dev.to linkedin medium
+
+gayatri192005
+
+gayatri192005
