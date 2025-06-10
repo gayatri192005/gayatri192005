@@ -1,5 +1,3 @@
-![java-original](https://github.com/user-attachments/assets/cc45ff4b-0330-480f-8a5e-2d46d3c5ef4c)![image](https://github.com/user-attachments/assets/be5c677b-0c66-4090-8c3a-b1eb63b5245c)### 👋 Hi, I’m Gayatri!
-
 
 - 👀 I’m interested in Web dev, AI, Web3, IoT, and all things tech!
 - 🌱 I’m currently learning competitive programming, advanced Generative AI, blockchain innovations, and the intricacies of Large Language Models.
