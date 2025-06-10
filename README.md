@@ -24,7 +24,7 @@
 
 ----
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am a fervent explorer of Blockchain 🧩, Web development 🌐, Machine learning 🤖, Software engineering 💻, and Cybersecurity 🔒.
+  <strong>I am a fervent explorer of  Web development 🌐, Machine learning 🤖, Software engineering 💻.
   My dedication lies in fostering groundbreaking innovations through collaboration and lifelong learning.<br>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>➜ I strive to pioneer transformative advancements.</li>
@@ -54,7 +54,7 @@
 - 🌱 Always learning new technologies and methodologies to stay ahead in the field.
 - 🔍 Open to `internships and new job opportunities` in software development.
 - 🤖 Tech enthusiast passionate about exploring and mastering emerging technologies.
-- :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1GwZXM2Vlkx4tSMF5h5ZwYB3uXNTv-YYK/view?usp=drivesdkview?usp=drivesdkview).
+- :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1QQ3SsTVv6dNdwExuzvG49oQ-L6xSIOex/view?usp=sharing).
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 -->
 <br>
@@ -63,7 +63,7 @@
 ----
 
 <p align="left">
-<a href="https://www.linkedin.com/in/g-gayatri192005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leo-nikhil-mothukuri-5169b021a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-gayatri192005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/g-gayatri192005/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19225762/leo-nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19225762/leo-nikhil" height="30" width="40" /></a>
 <a href="https://instagram.com/leonik_2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/flashnuke_2367" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="flashnuke_2367" height="30" width="40" /></a>
