@@ -47,13 +47,12 @@
 <strong> Tech Journey & Aspirations</strong>
 
 ----
-- :school: I am a `Final Year Engineering Student` at [CMR TECHNICAL CAMPUS].
+- :school: I am a `Final Year Engineering Student` at Malla reddy engineering college for women.
 - 🚀 Actively participated in numerous hackathons, leveraging software as a solution and continually upskilling.
-- 💻 Experienced `Web developer and Competitive programmer`, currently advancing skills in Advanced Web Development and BlockChain.
-- 🎓 `Vice President` of CodeOholics at CMR Technical Campus, fostering a community of tech enthusiasts.
+- 💻 Experienced `Full stack developer and Competitive programmer`, currently advancing skills in Advanced Web Development and Java full stack.
+- 🎓 `Campus Ambassador` of C4GT at Hyderabad, fostering a open source community of tech enthusiasts.
 - 🌱 Always learning new technologies and methodologies to stay ahead in the field.
 - 🔍 Open to `internships and new job opportunities` in software development.
-- 🌟 Committed to driving innovation and growth through technology, advocating for integrity, continuous improvement, and teamwork.
 - 🤖 Tech enthusiast passionate about exploring and mastering emerging technologies.
 - :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1GwZXM2Vlkx4tSMF5h5ZwYB3uXNTv-YYK/view?usp=drivesdkview?usp=drivesdkview).
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
@@ -64,15 +63,15 @@
 ----
 
 <p align="left">
-<a href="https://linkedin.com/in/leo-nikhil-mothukuri-5169b021a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leo-nikhil-mothukuri-5169b021a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-gayatri192005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leo-nikhil-mothukuri-5169b021a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19225762/leo-nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19225762/leo-nikhil" height="30" width="40" /></a>
 <a href="https://instagram.com/leonik_2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/flashnuke_2367" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="flashnuke_2367" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mnikhilleo" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/leonuke2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leonuke2367" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leonik2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leonik2367" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/gayatri192005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leonik2367" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mnikhilleo" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mnikhilleo" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/gayatri29a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mnikhilleo" height="30" width="40" /></a>
 <a href="https://discord.gg/548046445677379596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="548046445677379596" height="30" width="40" /></a>
 </p>
 
@@ -86,7 +85,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoNik2367&theme=neon-dark" alt="LeoNik2367" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatri192005&theme=neon-dark" alt="gayatri192005" /></p>
 
 
 
@@ -95,9 +94,9 @@
 ----
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="LeoNik2367's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeoNik2367&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
+    <img alt="Gayatri G's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gayatri192005&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoNik2367&langs_count=10&show_icons=true&locale=en&theme=neon" alt="LeoNik2367" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatri192005&langs_count=10&show_icons=true&locale=en&theme=neon" alt="gayatri192005" height="230px"/>
 </p>
 <br/>
 
@@ -108,7 +107,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 ----
-[![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoNik2367&bg_color=050505&color=ff0000&line=ff0000&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gayatri192005&bg_color=050505&color=ff0000&line=ff0000&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--[![LeoNik2367's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoNik2367&theme=react-dark)](https://github.com/LeoNik2367/github-readme-activity-graph)-->
 
 
@@ -122,7 +121,7 @@
 </p>-->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LeoNik2367&layout=compact&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="LeoNik2367" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gayatri192005&layout=compact&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="gayatri192005" />
   </a>
 </p>
 
