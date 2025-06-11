@@ -24,8 +24,8 @@
 
 ----
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am a fervent explorer of  Web development 🌐, Machine learning 🤖, Software engineering 💻.
-  My dedication lies in fostering groundbreaking innovations through collaboration and lifelong learning.<br>
+  <strong>I am a explorer of  Web development 🌐, Machine learning 🤖, Software engineering 💻.
+  My dedication lies in fostering innovations through collaboration and lifelong learning.<br>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>➜ I strive to pioneer transformative advancements.</li>
     <li>➜ I leverage my expertise to catalyze innovation, propel growth, and safeguard digital landscapes.</li>
