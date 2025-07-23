@@ -41,7 +41,7 @@
 - :thinking: I’m currently open for a new `Internships`, `Job opportunities`.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1c-iU2W16wJ9vGUv-BvLtyDVUVMOZMHHY/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1QQ3SsTVv6dNdwExuzvG49oQ-L6xSIOex/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lokesh Agarwal Resume" />
   </a>
 </p>
