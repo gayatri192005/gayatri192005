@@ -11,10 +11,10 @@
 <strong>About Me</strong>
 ----
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am a explorer of  Web development 🌐, Machine learning 🤖, Software engineering 💻.
+  <strong>I am a explorer of  Web development and Software engineering 💻.
   My dedication lies in fostering innovations through collaboration and lifelong learning.<br>
   <ul style="list-style-type: none; padding-left: 0;">
-    <li>➜ I strive to pioneer transformative advancements.</li>
+    <li>➜ I strive to pioneer technological advancements.</li>
     <li>➜ I leverage my expertise to catalyze innovation, propel growth, and safeguard digital landscapes.</li>
     <li>➜ I prioritize integrity, embrace continuous enhancement, and thrive in collaborative environments.</li>
   </ul></strong>
