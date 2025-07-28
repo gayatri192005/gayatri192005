@@ -5,11 +5,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Software+Engineer;Computer+Science+Student;Web+Development+Enthusiast;Division+4+on+Codechef+(1+Stars);853+GloabalRank+on+SmartInterviews;Keep+Calm+and+Code+On">
 </a>
 </p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1k628AGSF_nawWUZiAfiHKWr7hVsbSBTE/view?usp=drive_link" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1k628AGSF_nawWUZiAfiHKWr7hVsbSBTE" alt="Demo GIF" width="1200" />
+  </a>
+</p>
+
 <br>
 </p>
-<picture><img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true"></picture>
-<strong>About Me</strong>
+<!--
+<picture><img src = "https://drive.google.com/file/d/1k628AGSF_nawWUZiAfiHKWr7hVsbSBTE/view?usp=drive_link"></picture>-->
+
+<p align="">
+	<h3>About Me</h3>
+</p>
+
 ----
+
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
   <strong>I am a explorer of  Web development and Software engineering 💻.
   My dedication lies in fostering innovations through collaboration and lifelong learning.<br>
