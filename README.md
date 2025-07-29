@@ -74,7 +74,7 @@
 
 
 
-<h3>💻 GitHub Profile Stats</h3>
+<h3>💻 My GitHub Profile Stats</h3>
 
 ----
 <p align="center">
