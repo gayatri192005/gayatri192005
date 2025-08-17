@@ -22,7 +22,7 @@
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
   <strong>I am a explorer of  Web development and Software engineering 💻.
-  My dedication lies in fostering innovations through collaboration and lifelong learning.<br>
+  My dedication lies in fostering innovations through collaboration and lifelong learning :) <br>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>➜ I strive to pioneer technological advancements.</li>
     <li>➜ I leverage my expertise to catalyze innovation, propel growth, and safeguard digital landscapes.</li>
